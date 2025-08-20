@@ -6,7 +6,7 @@ Code and data used for the MS " HOIs among trees steepen the BEF relationship
 2. Code/model.stan: A folder contains all the model formulations tested in the study (18 in total).
 3. Code/array_job.sh: For submitting array jobs to HPC
 4. Code/IS-div-analysis.R: Code to analyze the results of the pairwise-nonlinear model (mod.10 in the model.stan folder), and produce Fig.2 in the MS. 
-5. Code/sim_growth.R: Code to simulate tree growth over 7 years with and withoug net HOI effects, and produce Fig.3 A and B in the MS.
+5. Code/sim_growth.R: Code to simulate tree growth over 7 years with and withoug net HOI effects, and produce Fig.3 A and B in the MS. The simulation output sim_output.csv (due to large size) can be found at https://zenodo.org/records/16911388.
 6. Code/SEM_IS.R: Code to extract interactions from each plot and SEM analysis.
 7. Code/functions.R: Functions required for simulating tree growth and extracting tree-tree interaction.
 8. Data/params.csv: Parameter files for running the array job on HPC. Files of 1,2, and 8 are needed to run the models on HPC.
