@@ -3,9 +3,9 @@ Code and data used for the MS " HOIs among trees steepen the BEF relationship
 
 System information:
 Model fitting was submitted to EVE cluster (VERSION="9.5 (Blue Onyx)" ID="rocky")
-GCC version 12.2.0 
-OpenMPI version 4.1.4
-rstan (Version 2.21.8, GitRev: 2e1f913d3ca3)
+GCC version 12.2.0; 
+OpenMPI version 4.1.4;
+rstan (Version 2.21.8, GitRev: 2e1f913d3ca3);
 R version 4.2.2
 
 All the analyses and simulations were conduct in
